@@ -1,0 +1,22 @@
+{
+  "name": "electron_react_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatitati/electron_react_playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatitati/electron_react_playground/issues"
+  },
+  "homepage": "https://github.com/tatitati/electron_react_playground#readme",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  }
+}
