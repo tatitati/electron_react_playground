@@ -10,8 +10,9 @@ npm install --save @babel/preset-env @babel/preset-react babel-loader css-loader
 npm install --save-dev @babel/core
 npm install --save-dev electron-reload
 
-npm start
+
 npm run watch
+npm start
 ```
 
 
