@@ -5,7 +5,7 @@ export default function App(){
     const enchancedTitle = title + ' - React app!';
 
     const sendNotification = () => {
-        alert('hellow world!!')
+        alert('hellow world!!!')
     }
 
     return (
